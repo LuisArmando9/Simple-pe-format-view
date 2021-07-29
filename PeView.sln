@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeView", "PeView\PeView.csproj", "{88DEF18A-E646-4433-9F9E-FE0D8877B1BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88DEF18A-E646-4433-9F9E-FE0D8877B1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DEF18A-E646-4433-9F9E-FE0D8877B1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DEF18A-E646-4433-9F9E-FE0D8877B1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DEF18A-E646-4433-9F9E-FE0D8877B1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5396D616-A672-4DB0-AC80-C2126C8ED5F3}
+	EndGlobalSection
+EndGlobal
